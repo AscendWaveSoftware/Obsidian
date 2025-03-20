@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "8960a91b2d9c61d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8aff3392887a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80785edd507d962c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_General/Git Versionierungs-Tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Versionierungs-Tool"
+            }
+          },
+          {
+            "id": "5eb0205f918dfd91",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e817f9a0a3b714e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a8f87dd2a48b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806b2b50fb0f3c4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4dd57ed488cbbd7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5eb65af040dec5a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98c73cd7c881c648",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8cc82f7037992f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51525738e273be93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operatoren.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operatoren"
+            }
+          },
+          {
+            "id": "5d4040aa08b40137",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operatoren.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operatoren"
+            }
+          },
+          {
+            "id": "194a2ce2f82b3172",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70cbb25362a0c5c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operatoren.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operatoren"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80785edd507d962c",
+  "lastOpenFiles": [
+    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Interface.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Arrays.md",
+    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Abstraction.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Booleans.md",
+    "Abstraction.md",
+    "Z_files/Git Master Branch.png",
+    "Z_files",
+    "99_Templates/00 Template.md",
+    "99_Templates/00 OBSIDIAN USER GUIDE.md",
+    "99_Templates",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Datentypen.md",
+    "00_General/01_Unity/01_Systeme/Player Movement Script (First Person 3D).md",
+    "00_General/00_CSharp/00_Grundlagen/03__Klassen",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics",
+    "00_General/01_Unity/01_Systeme",
+    "00_General/00_CSharp/00_Grundlagen",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Operatoren.md",
+    "00_General/Git Versionierungs-Tool.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Constants.md",
+    "00_General/01_Unity",
+    "00_General/00_CSharp",
+    "00_General",
+    "Booleans.md",
+    "Constants.md",
+    "Operatoren.md"
+  ]
+}
