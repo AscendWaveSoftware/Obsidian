@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_General/Git Versionierungs-Tool.md",
+                "file": "00_General/00_CSharp/00_Grundlagen/00_Basics/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Versionierungs-Tool"
+              "title": "Arrays"
             }
           },
           {
             "id": "5eb0205f918dfd91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99_Templates/00 OBSIDIAN USER GUIDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 OBSIDIAN USER GUIDE"
             }
           }
         ]
@@ -84,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,25 +185,25 @@
   },
   "active": "80785edd507d962c",
   "lastOpenFiles": [
-    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Interface.md",
+    "99_Templates/00 OBSIDIAN USER GUIDE.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Datentypen.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Arrays.md",
-    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Abstraction.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Constants.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Operatoren.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Booleans.md",
+    "00_General/Git Versionierungs-Tool.md",
+    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Interface.md",
+    "00_General/00_CSharp/00_Grundlagen/03__Klassen/Abstraction.md",
     "Abstraction.md",
     "Z_files/Git Master Branch.png",
     "Z_files",
     "99_Templates/00 Template.md",
-    "99_Templates/00 OBSIDIAN USER GUIDE.md",
     "99_Templates",
-    "00_General/00_CSharp/00_Grundlagen/00_Basics/Datentypen.md",
     "00_General/01_Unity/01_Systeme/Player Movement Script (First Person 3D).md",
     "00_General/00_CSharp/00_Grundlagen/03__Klassen",
     "00_General/00_CSharp/00_Grundlagen/00_Basics",
     "00_General/01_Unity/01_Systeme",
     "00_General/00_CSharp/00_Grundlagen",
-    "00_General/00_CSharp/00_Grundlagen/00_Basics/Operatoren.md",
-    "00_General/Git Versionierungs-Tool.md",
-    "00_General/00_CSharp/00_Grundlagen/00_Basics/Constants.md",
     "00_General/01_Unity",
     "00_General/00_CSharp",
     "00_General",
