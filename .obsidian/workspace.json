@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_General/00_CSharp/00_Grundlagen/00_Basics/If and Else.md",
+                "file": "00_General/00_CSharp/00_Grundlagen/00_Basics/While Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "If and Else"
+              "title": "While Loop"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Templates/00 OBSIDIAN USER GUIDE.md",
+                "file": "00_General/00_CSharp/00_Grundlagen/00_Basics/Break and Continue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 OBSIDIAN USER GUIDE"
+              "title": "Break and Continue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Wochentagsnummer \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,13 +185,18 @@
   },
   "active": "806b2b50fb0f3c4b",
   "lastOpenFiles": [
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Foreach Loop.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Break and Continue.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/For Loop.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/While Loop.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Operatoren.md",
+    "00_General/00_CSharp/00_Grundlagen/00_Basics/Switch.md",
+    "99_Templates/00 OBSIDIAN USER GUIDE.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Arrays.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/If and Else.md",
     "00_General/01_Unity/01_Systeme/Player Movement Script (First Person 3D).md",
     "00_General/Git Versionierungs-Tool.md",
-    "00_General/00_CSharp/00_Grundlagen/00_Basics/Operatoren.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Datentypen.md",
-    "99_Templates/00 OBSIDIAN USER GUIDE.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Constants.md",
     "00_General/00_CSharp/00_Grundlagen/00_Basics/Booleans.md",
     "00_General/00_CSharp/00_Grundlagen/03__Klassen/Interface.md",
