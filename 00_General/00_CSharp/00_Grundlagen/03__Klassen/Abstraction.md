@@ -5,6 +5,7 @@ tags:
   - csharp
   - klassen
   - grundlagen
+  - oop
 ---
 Unter **Datenabstraktion** versteht man den Prozess, bestimmte Details zu verbergen und dem Benutzer nur die wesentlichen Informationen zu zeigen.
 Abstraktion kann entweder durch **abstrakte Klassen** oder durch **Schnittstellen (Interfaces)** erreicht werden. 

@@ -6,6 +6,7 @@ tags:
   - csharp
   - grundlagen
   - klassen
+  - oop
 ---
 
 >[!Info]- Eine andere Möglichkeit, in C# Abstraktion zu erreichen, sind **Interfaces**.
