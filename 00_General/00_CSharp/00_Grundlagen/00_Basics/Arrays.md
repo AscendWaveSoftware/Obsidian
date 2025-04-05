@@ -33,3 +33,17 @@ string[] cars = new string[4];
 
 string[] cars = new string[4] {"Volvo", "Mercedes", "BMW"};
 ```
+
+
+
+
+>[!warning]- Arrays können im Programmcode dynamisch verändert werden (Benutzung nur im Notfall -> kein Best Practise). Besser ist dann die Verwendung einer List-Struktur.
+
+
+```csharp
+int anzahl = 5;
+int[] zahlen = new int[anzahl];
+Array.Resize(ref zahlen, 9);
+```
+
+

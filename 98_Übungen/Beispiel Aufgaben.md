@@ -129,3 +129,47 @@ Wenn er richtig rät, gib aus: "Richtig!" und beende die Schleife mit **break**.
  }
 ```
 
+
+## Zweidimensionale Arrays
+
+**Aufgabe: Grundlagen**
+Erstelle ein 4x4 großes Array. Fülle jede Zelle mit Zahlen, die der Summe ihrer Koordinaten entsprechen. Gib das Array vollständig auf der Konsole aus.
+
+```csharp
+char[,] myArray = new char[4,4];
+
+for(int i = 0; i < 4; i++)
+{
+	for(int j = 0; j < 4; j++)
+	{
+		int sum = i + j;
+		Console.Write(sum);
+	}
+	Console.WriteLine();
+}
+```
+
+
+**Aufgabe: Muster erstellen**
+Erstelle ein 5x5 Array. Platziere "X" an den Rändern und "O" im Innenbereich.
+
+```csharp
+char[,] myArray = new char[5,5];
+
+for(int i = 0; i < 5; i++)
+{
+	for(int j = 0; j < 5; j++)
+	{
+		if(i == 0 || i == 4 || j == 0 || j == 4)
+		{
+			Console.Write('X');
+		}
+		else
+		{
+			Console.Write('O');
+		}
+	}
+	Console.WriteLine();
+}
+```
+

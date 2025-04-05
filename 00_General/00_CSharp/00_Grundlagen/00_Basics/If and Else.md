@@ -122,3 +122,19 @@ else
 
 // Hier wird "Good evening." ausgegeben, da time >= 20
 ```
+
+
+>[!warning]- Besondere Schreibweise: **Ternärer Operator**
+
+```csharp
+string s1 = i > 5 ? "True" : "False";
+
+
+// Null-Koaleszenz-Operator
+string s2 = null;
+Console.WriteLine(s2 ?? "String ist Null"); // Gibt "String ist Null" aus
+
+s2 = "Foobar";
+Console.WriteLine(s2 ?? "String ist Null"); // Gibt "Foobar" aus
+```
+
