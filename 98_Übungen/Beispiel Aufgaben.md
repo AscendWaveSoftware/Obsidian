@@ -173,3 +173,67 @@ for(int i = 0; i < 5; i++)
 }
 ```
 
+
+**Aufgabe: Ein Element suchen**
+Erstelle ein 3x3 Array mit zufälligen Zahlen von 1 bis 9. Schreibe ein Programm, das eine Zahl eingibt und sagt, ob sie im Array existiert und wenn ja, an welcher Position sie ist.
+
+```csharp
+Random rnd = new Random();
+
+int[,] myArray = new int[3, 3];
+
+for (int i = 0; i < myArray.GetLength(0); i++)
+{
+    for(int j = 0; j < myArray.GetLength(1); j++)
+    {
+        myArray[i, j] = rnd.Next(1, 10 + 1);
+    }
+}
+
+// Array ausgeben
+for (int i = 0; i < myArray.GetLength(0); i++)
+{
+    for (int j = 0; j < myArray.GetLength(1); j++)
+    {
+        Console.Write(myArray[i, j] + " ");
+    }
+    Console.WriteLine();
+}
+
+int input = 0;
+bool validInput = false;
+
+
+do
+{
+    Console.WriteLine("Bitte gib eine  Ganzzahl ein.");
+    
+    if(int.TryParse(Console.ReadLine(), out input))
+    {
+        validInput = true;
+    }
+    else
+    {
+        Console.WriteLine("Ungültige Eingabe!");
+    }
+
+} while (!validInput);
+
+
+for (int i = 0; i < myArray.GetLength(0); i++)
+{
+    for (int j = 0; j < myArray.GetLength(1); j++)
+    {
+        if (input == myArray[i, j])
+        {
+            Console.WriteLine($"{input} ist im Array an Stelle [{i + 1}, {j + 1}] enthalten!");
+            return;
+        }
+    }
+}
+
+Console.WriteLine($"Die Zahl {input} ist nicht im Array enthalten.");
+```
+
+
+
