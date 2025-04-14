@@ -10,7 +10,7 @@ tags:
 
 ## Was ist eine Klasse
 
-Eine **Klasse** ist eine Vorlage oder ein Bauplan für Objekte. Sie beschreibt, wie Objekte aufgebaut sind (Attribute) und wie sie sich verhalten (Methoden). Klassen bilden den Kern der objektorientierten Programmierung (OOP).
+Eine **Klasse** ist eine Vorlage oder ein Bauplan für Objekte. Sie beschreibt, wie Objekte aufgebaut sind (Attribute) und wie sie sich verhalten (Methoden). Speicher für ihre Eigenschaften wird erst bei Erzeugung eines Objekts reserviert. Klassen bilden den Kern der objektorientierten Programmierung (OOP).
 
 **Definition einer Klasse:**
 
