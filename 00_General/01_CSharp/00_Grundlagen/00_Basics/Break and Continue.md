@@ -9,7 +9,7 @@ tags:
 ---
 ## C# Break
 
-Das **Break-Statement** wird verwendet, um aus einer **switch-Anweisung** "herauszuspringen".
+Das **Break-Statement** wird verwendet, um aus einer **[[Switch]]-Anweisung** "herauszuspringen".
 Die break-Anweisung kann auch verwendet werden, um aus einer Schleife herauszuspringen.
 
 In folgendem Beispiel wird die Schleife verlassen, wenn i gleich 4 ist:
@@ -46,7 +46,7 @@ In folgendem Beispiel wird der Wert von 4 übersprungen:
 
 ### Break & Continue in einem While Loop
 
-**Break & Continue** können auch in einem **while-Loop** verwendet werden:
+**Break & Continue** können auch in einem **[[while-Loop]]** verwendet werden:
 
 ```csharp
 int i = 0;

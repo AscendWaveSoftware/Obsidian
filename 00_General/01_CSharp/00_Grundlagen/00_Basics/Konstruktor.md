@@ -30,7 +30,7 @@ class KonsolenApp
 ```
 
 
-Der **Konstruktor** wird deklariert wird eine Methode, die den gleichen Namen hat wie die Klasse. Allerdings wird für einen Konstruktor kein Rückgabetyp angegeben. Der **Rückgabewert** eines Konstruktors ist seine Klasse.
+Der **Konstruktor** wird deklariert wie eine Methode, die den gleichen Namen hat wie die Klasse. Allerdings wird für einen Konstruktor kein Rückgabetyp angegeben. Der **Rückgabewert** eines Konstruktors ist seine Klasse.
 
 ```csharp
 class KonsolenApp
@@ -82,7 +82,7 @@ class KonsolenApp
 
 ### Fabric Method
 
-Eine **Fabrik-Methode** ist eine statische Methode, die ein Objekt der Klasse erzeugt. Die Methode muss statisch sein, damit direkt über die Klassen aufgerufen werden kann, ohne vorher ein Objekt zu erzeugen. Das Erzeugen des Objekts soll die Fabrik-Methode übernehmen.
+Eine **Fabrik-Methode** ist eine statische Methode, die ein Objekt der Klasse erzeugt. Die Methode muss statisch sein, damit sie direkt über die Klassen aufgerufen werden kann, ohne vorher ein Objekt zu erzeugen. Das Erzeugen des Objekts soll die Fabrik-Methode übernehmen.
 
 ```csharp
 public static KonsolenApp InSpanish()

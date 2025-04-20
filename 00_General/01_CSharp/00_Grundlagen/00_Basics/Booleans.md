@@ -7,7 +7,7 @@ tags:
   - variablen
 ---
 
-In der Programmierung benötigt man oft einen Datentypen, der nur einen von zwei Werten annehmen kann, wie z. B.:
+In der Programmierung benötigt man oft einen [[Datentypen]], der nur einen von zwei Werten annehmen kann, wie z. B.:
 
 **Ja / Nein**
 **Ein / Aus**

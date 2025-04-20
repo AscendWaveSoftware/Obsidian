@@ -7,7 +7,7 @@ tags:
   - grundlagen
   - booleans
 ---
-## C# While Loop
+## C# While-Loop
 
 ### Schleifen
 
