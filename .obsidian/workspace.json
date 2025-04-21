@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_General/01_CSharp/00_Grundlagen/00_Basics/Constants.md",
+                "file": "00_General/01_CSharp/01_Fortgeschrittene Konzepte/Lambda-Ausdrücke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constants"
+              "title": "Lambda-Ausdrücke"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Wochentagsnummer \"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,15 +181,18 @@
   },
   "active": "d2cc62814934ee10",
   "lastOpenFiles": [
+    "00_General/01_CSharp/01_Fortgeschrittene Konzepte/Lambda-Ausdrücke.md",
+    "00_General/01_CSharp/02_LINQ/LINQ (Language Integrated Query).md",
+    "00_General/01_CSharp/01_Fortgeschrittene Konzepte",
+    "00_General/01_CSharp/00_Grundlagen/00_Basics/Constants.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Break and Continue.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/While-Loop.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Switch.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Booleans.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Datentypen.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Arrays.md",
-    "00_General/01_CSharp/LINQ/LINQ (Language Integrated Query).md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Properties.md",
-    "00_General/01_CSharp/LINQ",
+    "00_General/01_CSharp/02_LINQ",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Konstruktor.md",
     "00_General/01_CSharp/00_Grundlagen/00_Basics/Klassen und Objekte.md",
     "00_General/00_OOP/Grundlagen der Objektorientierten Programmierung.md",
@@ -211,12 +215,9 @@
     "96_Bücher und Litaratur/00_Kompendium CSharp von Robert Schiefele/99_Programme",
     "96_Bücher und Litaratur",
     "96_Bücher und Litaratur/00_Kompendium CSharp von Robert Schiefele",
-    "00_General/01_CSharp/00_Grundlagen/00_Basics/If and Else.md",
-    "00_General/01_CSharp/00_Grundlagen/00_Basics/Stack & Heap.md",
     "Z_files/Screenshot (101).png",
     "00_General/99_Cheat Sheets",
     "97_Übungen",
-    "Z_files/Git Master Branch.png",
-    "Z_files"
+    "Z_files/Git Master Branch.png"
   ]
 }

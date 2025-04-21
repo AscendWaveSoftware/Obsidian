@@ -15,13 +15,14 @@ tags:
 ## LINQ-Varianten (Provider)
 
 
-| Provider             | Datenquelle                                  |
-| -------------------- | -------------------------------------------- |
-| **LINQ to Objects**  | In-Memory-Collections (z. B. List<T>, Array) |
-| **LINQ to SQL**      | Relationale Datenbanken via ADO.NET          |
-| **LINQ to Entities** | Entity Framework                             |
-| **LINQ to XML**      | XML-Dokumente                                |
-| **PLINQ**            | Parallele Ausführung von LINQ-Abfragen       |
+| Provider               | Datenquelle                                  |
+| ---------------------- | -------------------------------------------- |
+| **LINQ to Objects**    | In-Memory-Collections (z. B. List<T>, Array) |
+| **LINQ to SQL**        | Relationale Datenbanken via ADO.NET          |
+| **LINQ to Entities**   | Entity Framework                             |
+| **LINQ to XML**        | XML-Dokumente                                |
+| **PLINQ**              | Parallele Ausführung von LINQ-Abfragen       |
+| **LINQ to SharePoint** | Zugriff auf SharePoints-Daten                |
 
 
 ## Syntaxformen
